@@ -1,2 +1,4 @@
-# pgsql_hr_analytics_queries
-Multiple business reports using PGSQL 
+
+
+
+- [PGsql_HR_queris.sql](PGsql_Script_File)
