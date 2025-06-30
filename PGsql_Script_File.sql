@@ -1,9 +1,6 @@
-
-
 --===============================================================
--- PGSQL HR Analytics Project – Cleaned SQL Script
+-- PGSQL HR Analytics Project-
 --===============================================================
-
 -- SECTION 1: Split Full Name into First and Last Name
 -----------------------------------------------------------------
 ALTER TABLE employees
